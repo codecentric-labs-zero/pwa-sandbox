@@ -1,0 +1,7 @@
+.navbar-nav > li > a {
+    line-height: 32px !important;
+}
+
+.navbar .navbar-brand {
+    line-height: 32px !important;
+}
